@@ -1,5 +1,17 @@
-# 💫 About Me:
-# 👋 Hi, I'm Kushagra Verma<br><br>### 🚀 MERN Stack Developer 🔄 Transitioning into Data Science & AI<br><br>I am a builder at heart. Having mastered the **MERN Stack (MongoDB, Express.js, React, Node.js)** to create robust, full-stack web applications, I am now channeling that engineering foundation into **Data Science and Artificial Intelligence**. <br><br>My goal is to bridge the gap between powerful web architectures and intelligent backend models—building applications that aren't just functional, but smart.<br><br>---<br><br>- 📈 **Currently Learning:** Advanced Data Science, Machine Learning models, and Computer Vision.<br>- 💻 **MERN Expertise:** Building responsive frontends, designing scalable REST APIs, and managing NoSQL databases.<br>- ⚡ **The Ultimate Goal:** Leveraging my full-stack background to deploy, scale, and productionalize production-grade AI/ML applications.<br>- 💬 **Let's Talk About:** JavaScript/TypeScript ecosystems, Python, mathematical optimization, or how data is transforming the web.
+# 👋 Hi, I'm Kushagra Verma
+
+### 🚀 MERN Stack Developer 🔄 Transitioning into Data Science & AI
+
+I am a builder at heart. Having mastered the **MERN Stack (MongoDB, Express.js, React, Node.js)** to create robust, full-stack web applications, I am now channeling that engineering foundation into **Data Science and Artificial Intelligence**. 
+
+My goal is to bridge the gap between powerful web architectures and intelligent backend models—building applications that aren't just functional, but smart.
+
+---
+
+- 📈 **Currently Learning:** Advanced Data Science, Machine Learning models, and Computer Vision.
+- 💻 **MERN Expertise:** Building responsive frontends, designing scalable REST APIs, and managing NoSQL databases.
+- ⚡ **The Ultimate Goal:** Leveraging my full-stack background to deploy, scale, and productionalize production-grade AI/ML applications.
+- 💬 **Let's Talk About:** JavaScript/TypeScript ecosystems, Python, mathematical optimization, or how data is transforming the web.
 
 
 ## 🌐 Socials:
