@@ -7,7 +7,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kushagra-verma-a08a1828b)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kushagraverma1804@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kush180)
-[![Profile Views](https://komarev.com/ghpvc/?username=kush180&style=for-the-badge&color=4fffb0&label=PROFILE+VIEWS)](https://github.com/kush180)
 
 </div>
 
@@ -15,20 +14,15 @@
 
 ### 📌 About Me
 
-```python
-kushagra = {
-    "role"      : "Data Analyst | open to Data Science & ML roles",
-    "education" : "B.Tech in Data Science & AI @ IIIT Naya Raipur (2023–2027)",
-    "research"  : "IEEE Co-author | 5G Handover Prediction · Ensemble Learning · MARL",
-    "focus"     : ["SQL", "Power BI", "Python EDA", "Machine Learning"],
-    "building"  : "Analytics dashboards + ML-powered web apps",
-    "open_to"   : "Data Analyst · Data Science · ML internship opportunities"
-}
-```
+I find patterns in data and turn them into decisions.
+My work sits at the intersection of analytics, machine learning, and full-stack engineering — I don't just analyze data, I build things with it.
 
-> I find patterns in data and turn them into decisions.  
-> My work sits at the intersection of analytics, machine learning, and full-stack engineering —  
-> I don't just analyze data, I build things with it.
+- 🎓 **B.Tech in Data Science & AI** @ IIIT Naya Raipur (2023–2027)
+- 📊 **Role:** Data Analyst | open to Data Science & ML roles
+- 🔬 **Research:** IEEE Co-author | 5G Handover Prediction · Ensemble Learning · MARL
+- 🛠 **Focus:** SQL · Power BI · Python EDA · Machine Learning
+- 🚀 **Building:** Analytics dashboards + ML-powered web apps
+- 💼 **Open to:** Data Analyst · Data Science · ML internship opportunities
 
 ---
 
